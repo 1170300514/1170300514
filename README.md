@@ -10,6 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-- 📚 I’m a student of Harbin Institute of Technology
+- 📚 I’m a student of Harbin Institute of Technology.
+- 🏛 I’m going to do my master's degree in HIT.
 - 🌱 I’m currently learning Spring Framework.
 - 📫 How to reach me: xyzhang.top@foxmail.com
